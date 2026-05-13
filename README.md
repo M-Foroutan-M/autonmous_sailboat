@@ -4,7 +4,7 @@ An Arduino-based autonomous sailboat control platform designed for real-world wa
 
 This project integrates GPS navigation, heading estimation, wind sensing, sail/rudder actuation, and telemetry logging to enable autonomous sailing experiments in physical environments.
 
-![Alt text](/images/WaterTest)
+![Alt text](images/WaterTest.jpg)
 
 ---
 
